@@ -40,13 +40,15 @@ This project analyzes the sentiment of comments from a YouTube video using BERT 
 ### Visualizations
 
 #### Sentiment Counts
-![Sentiment Counts]![sentiment_counts](https://github.com/rdc2697/Youtube-Comment-Sentiment-Analysis/assets/40556517/e1d58329-9b15-4915-a366-167d538ddf5d)
+![sentiment_counts](https://github.com/rdc2697/Youtube-Comment-Sentiment-Analysis/assets/40556517/e1d58329-9b15-4915-a366-167d538ddf5d)
 
 #### Top N Positive Words
-![Sentiment Score Box Plot]![top_positive_words](https://github.com/rdc2697/Youtube-Comment-Sentiment-Analysis/assets/40556517/b6c3f7ea-145e-463c-a087-d14bcfeba815)
+![top_positive_words](https://github.com/rdc2697/Youtube-Comment-Sentiment-Analysis/assets/40556517/b6c3f7ea-145e-463c-a087-d14bcfeba815)
 
 
 #### Top N Negative Words
+![top_negative_words](https://github.com/rdc2697/Youtube-Comment-Sentiment-Analysis/assets/40556517/677ca406-7cff-4c27-bab7-2319b760404e)
+
 
 ## How to Run
 
