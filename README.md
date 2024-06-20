@@ -37,9 +37,20 @@ This project analyzes the sentiment of comments from a YouTube video using BERT 
 | its wrong it has 16 more views | -1 |
 | i finally did it the title says 71,891,637 but it is showing \r\n71,891,642 | -1 |
 
+### Visualizations
+
+#### Sentiment Counts
+![Sentiment Counts]![sentiment_counts](https://github.com/rdc2697/Youtube-Comment-Sentiment-Analysis/assets/40556517/e1d58329-9b15-4915-a366-167d538ddf5d)
+
+#### Top N Positive Words
+![Sentiment Score Box Plot]![top_positive_words](https://github.com/rdc2697/Youtube-Comment-Sentiment-Analysis/assets/40556517/b6c3f7ea-145e-463c-a087-d14bcfeba815)
+
+
+#### Top N Negative Words
+
 ## How to Run
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/youtube-comment-sentiment-analysis.git
-   cd youtube-comment-sentiment-analysis
+   git clone https://github.com/yourusername/YouTube-Comment-Sentiment-Analysis.git
+   cd YouTube-Comment-Sentiment-Analysis
