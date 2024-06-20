@@ -11,8 +11,12 @@ This project analyzes the sentiment of comments from a YouTube video using BERT 
 ## Results
 
 ### Sentiment Distribution
+### Positive Word Cloud
+![top_positive_words](https://github.com/rdc2697/Youtube-Comment-Sentiment-Analysis/assets/40556517/8982670d-c3c9-4d15-882f-ecc6c910b9ed)
 
-![Sentiment Distribution](sentiment_distribution.png)
+###Negative Word Cloud
+![top_negative_words](https://github.com/rdc2697/Youtube-Comment-Sentiment-Analysis/assets/40556517/17ee12f5-ee61-4657-b74b-113b2b879e0d)
+
 
 ### Most Positive Comments
 
